@@ -4,6 +4,7 @@
 
 A full-stack AI-powered mock interview tool that simulates real tech interviews, evaluates your answers, and reveals what the interviewer was *actually* thinking.
 
+
 ![Tech Stack](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square)
 ![Tech Stack](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square)
 ![Tech Stack](https://img.shields.io/badge/Inference-Groq-F55036?style=flat-square)
