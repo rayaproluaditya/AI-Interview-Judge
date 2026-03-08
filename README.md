@@ -14,7 +14,7 @@ A full-stack AI-powered mock interview tool that simulates real tech interviews,
 ![Tech Stack](https://img.shields.io/badge/Deploy-Render%20%2B%20Vercel-black?style=flat-square)
 
 ---
-![Uploading image.png…]()
+<img width="2770" height="1740" alt="image" src="https://github.com/user-attachments/assets/c782b6ce-6bfd-4477-af40-f723c6d286ec" />
 
 ## ✨ Features
 
@@ -37,6 +37,7 @@ A full-stack AI-powered mock interview tool that simulates real tech interviews,
 | **Frontend Deploy** | Vercel (free tier) |
 
 ---
+![Uploading image.png…]()
 
 ## 🚀 Getting Started
 
