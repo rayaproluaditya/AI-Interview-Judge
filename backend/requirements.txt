@@ -6,4 +6,4 @@ python-dotenv==1.0.1
 groq==0.4.2
 
 httpx==0.24.1
-EOF
+
