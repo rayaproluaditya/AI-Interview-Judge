@@ -5,6 +5,7 @@
 A full-stack AI-powered mock interview tool that simulates real tech interviews, evaluates your answers, and reveals what the interviewer was *actually* thinking.
 
 
+
 <a href = "https://ai-interview-judge-xy43.vercel.app" > AI INTERVIEW </a>
 
 ![Tech Stack](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square)
@@ -13,7 +14,7 @@ A full-stack AI-powered mock interview tool that simulates real tech interviews,
 ![Tech Stack](https://img.shields.io/badge/Deploy-Render%20%2B%20Vercel-black?style=flat-square)
 
 ---
-
+file:///var/folders/dv/ylqvt0md19b9dz07j8cs67mw0000gn/T/TemporaryItems/NSIRD_screencaptureui_pyt97j/Screenshot%202026-03-08%20at%2018.45.36.png
 ## ✨ Features
 
 - 🎭 **Role-specific questions** — SDE, ML Engineer, Data Scientist, PM, and more
