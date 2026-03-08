@@ -37,7 +37,7 @@ A full-stack AI-powered mock interview tool that simulates real tech interviews,
 | **Frontend Deploy** | Vercel (free tier) |
 
 ---
-![Uploading image.png…]()
+<img width="2770" height="1740" alt="image" src="https://github.com/user-attachments/assets/6554bc04-4bb5-41d3-b373-4c88a6967e02" />
 
 ## 🚀 Getting Started
 
