@@ -41,7 +41,7 @@ A full-stack AI-powered mock interview tool that simulates real tech interviews,
 ### Prerequisites
 - Python 3.10+
 - Node.js 18+
-- [Gemini API Key](https://aistudio.google.com/app/apikey) (free)
+- [Groq API Key](https://console.groq.com/keys) (free)
 
 ---
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 # Create .env file
 cp .env.example .env
-# Add your GEMINI_API_KEY to .env
+# Add your GROQ_API_KEY to .env
 
 # Run locally
 uvicorn main:app --reload
